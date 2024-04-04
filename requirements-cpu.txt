@@ -1,0 +1,8 @@
+ipykernel
+tensorflow
+# tensorflow-metal
+tensorflow-datasets
+matplotlib
+numpy
+pandas
+scikit-learn
