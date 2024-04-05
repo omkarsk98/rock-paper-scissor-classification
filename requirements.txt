@@ -6,3 +6,6 @@ matplotlib
 numpy
 pandas
 scikit-learn
+fastapi
+uvicorn
+python-multipart
