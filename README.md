@@ -657,7 +657,7 @@ print(conf_matrix)
     2024-04-08 13:58:14.574013: W tensorflow/core/framework/local_rendezvous.cc:404] Local rendezvous is aborting with status: OUT_OF_RANGE: End of sequence
 This has even better performance and lesser false positives and negatives. Values have shifted towards the diagonal in the confusion matrix. 
 
-**We now git push and go home early.!** No, projects look more impactful when we have them in live action. This notebook ends here but we will build another program to learn how can we live predict the labels.
+**We now git push and go home early.!** 
 
 We already documented our steps well so we now export this to a markdown format to put it as readme. 
 ```python
